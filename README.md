@@ -18,7 +18,8 @@
 ## Technologies Used
 <ul>
   <li>JavaScript</li>
-  <li>CSS</li>
+  <li>CSS3</li>
+  <li>HTML5</li>
   </ul>
 
 
